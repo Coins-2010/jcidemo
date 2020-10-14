@@ -3,6 +3,7 @@ package uk.ac.qub.eeecs.dave;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import uk.ac.qub.eeecs.dave.Calculator;
 
 class CalculatorTest {
 
